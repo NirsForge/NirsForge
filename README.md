@@ -7,4 +7,3 @@ Prj* => Project<br/>
 CS* => C#<br/>
 CPP* => C++<br/>
 PY* => Python<br/>
-JS* => JavaScript<br/>
